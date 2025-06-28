@@ -1,0 +1,8 @@
+version: 0.0.5
+files:
+  - url: HourglassSetup.exe
+    sha512: FlFEjnZDEcIp+RLIvETTDJsxeoA3J/y4NV0IHJXF5pGARYLA8pDOn2fMjXX4GLQ/XYB+2T14PxB4tLRhn1Kv3A==
+    size: 171250176
+path: HourglassSetup.exe
+sha512: FlFEjnZDEcIp+RLIvETTDJsxeoA3J/y4NV0IHJXF5pGARYLA8pDOn2fMjXX4GLQ/XYB+2T14PxB4tLRhn1Kv3A==
+releaseDate: '2025-06-28T08:32:02.467Z'
