@@ -1,7 +1,7 @@
 version: 0.0.14
 files:
   - url: https://github.com/Hourglass-Inc/hourglass-latest-build/releases/download/v0.0.14/HourglassSetup.exe
-    sha512: eWwXFAEaOQy9pqXL/lwzuYfu0rDPIShs8K7lwAJJFGsnftZVn2/IenlGaePw82iCdxWR/BgYwLMfOcop/5sBsQ==
-    size: 171925504
-sha512: eWwXFAEaOQy9pqXL/lwzuYfu0rDPIShs8K7lwAJJFGsnftZVn2/IenlGaePw82iCdxWR/BgYwLMfOcop/5sBsQ==
-releaseDate: '2025-07-07T14:55:11.987Z'
+    sha512: bPEorFIqfVvUcbyqkQxP/UtuQwJ7/q2X4bzo01KcFTL3HD4fm2gZBLtUabaoolE4cSIZhQd9ZA/E2gAVjvYt9Q==
+    size: 171931648
+sha512: bPEorFIqfVvUcbyqkQxP/UtuQwJ7/q2X4bzo01KcFTL3HD4fm2gZBLtUabaoolE4cSIZhQd9ZA/E2gAVjvYt9Q==
+releaseDate: '2025-07-07T15:39:24.999Z'
