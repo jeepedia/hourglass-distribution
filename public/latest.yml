@@ -1,6 +1,6 @@
-version: 0.0.8
+version: 0.0.9
 files:
-  - url: https://github.com/Hourglass-Inc/hourglass-latest-build/releases/download/v0.0.8/HourglassSetup.exe
+  - url: https://github.com/Hourglass-Inc/hourglass-latest-build/releases/download/v0.0.9/HourglassSetup.exe
     sha512: FTNdR1+0VYs/d+0tD2KZpmBn6+eo4lXPXwglwcBELwUnEbWyI3PMI4ZHTo6DSldthbWmVb9wD4T/2wk8ErbhTQ==
-    size: 171922944
-releaseDate: '2025-07-07T07:47:59.624Z'
+    size: 171923456
+releaseDate: '2025-07-07T09:56:39.153Z'
