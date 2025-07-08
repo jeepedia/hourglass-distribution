@@ -1,9 +1,9 @@
-version: 0.0.18
+version: 0.0.19
 path: HourglassSetup.exe
 files:
-  - url: https://github.com/Hourglass-Inc/hourglass-latest-build/releases/download/v0.0.18/HourglassSetup.exe
-    sha512: x3u8JmqLs+XPYKckq9XV2vxO15meDeX2ZkHqL/Ag4uIdzX9PAkX4OhQdTDdEpTzkkaN/ji/hQY7gkhbIC/pCZA==
-    size: 171933696
+  - url: https://github.com/Hourglass-Inc/hourglass-latest-build/releases/download/v0.0.19/HourglassSetup.exe
+    sha512: zF/Lo2oYiSTABSPP4gvtwaYezs1zutnYVpH4P63oAc3XRNNR0Vd58jztVMGxmf1buaYxEnStEL7lj/r6l5TsgQ==
+    size: 171947008
     path: HourglassSetup.exe
-sha512: x3u8JmqLs+XPYKckq9XV2vxO15meDeX2ZkHqL/Ag4uIdzX9PAkX4OhQdTDdEpTzkkaN/ji/hQY7gkhbIC/pCZA==
-releaseDate: '2025-07-07T17:17:29.416Z'
+sha512: zF/Lo2oYiSTABSPP4gvtwaYezs1zutnYVpH4P63oAc3XRNNR0Vd58jztVMGxmf1buaYxEnStEL7lj/r6l5TsgQ==
+releaseDate: '2025-07-08T13:46:49.380Z'
