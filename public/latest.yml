@@ -1,4 +1,4 @@
-version: 0.0.20
+version: 0.0.19
 path: HourglassSetup.exe
 files:
   - url: https://github.com/Hourglass-Inc/hourglass-latest-build/releases/download/v0.0.20/HourglassSetup.exe
